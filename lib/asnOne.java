@@ -214,7 +214,6 @@ public class asnOne {
             } else {
                 System.out.println(" Odd no. = " + i);
             }
-
             i++;
         }
     }
